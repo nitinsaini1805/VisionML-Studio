@@ -1,0 +1,6 @@
+{
+  "name": "Teachable ML Dashboard",
+  "description": "In-browser Image Classification System using CNN transfer learning. Load custom datasets, train, evaluate, and predict entirely in your browser using TensorFlow.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
